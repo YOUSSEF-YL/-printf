@@ -14,5 +14,3 @@ int	ft_unsignedint(unsigned int n)
 	count += ft_putnbr(n);
 	return (count);
 }
-
-
