@@ -21,3 +21,4 @@ int	ft_hexadecimal(unsigned int n, char *base)
 		count += ft_putchar(base[n]);
 	return (count);
 }
+vjhvh
