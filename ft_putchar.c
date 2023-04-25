@@ -12,3 +12,4 @@ int	ft_putchar(char c)
 	return (1);
 }
 
+

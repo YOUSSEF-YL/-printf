@@ -20,3 +20,4 @@ int ft_binary(unsigned int n)
 		count += ft_putchar(n + '0');
 	return (count);
 }
+
