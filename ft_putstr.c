@@ -80,4 +80,3 @@ int rot13(char *str)
 	}
 	return (count);
 }
-re
