@@ -21,5 +21,3 @@ int	ft_adresse(unsigned long int n, char *base)
 		count += ft_putchar(base[n]);
 	return (count);
 }
-
-
